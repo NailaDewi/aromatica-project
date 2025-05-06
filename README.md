@@ -1,4 +1,4 @@
-# aromatica-project
+# Luzz de Luna-project
 Website sederhana untuk brand parfum Luzz de Luna. Dibuat sebagai tugas pemrograman web. Menampilkan berbagai jenis parfum, deskripsi produk, dan desain yang elegan.
 
 ---
